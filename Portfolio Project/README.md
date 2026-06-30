@@ -12,4 +12,4 @@ CSS3: Reusable component classes, border architectures, custom shadows, and font
 
 Workspace: vscode.dev in-browser IDE environment
 
-This is just day one of my journey, and I can't wait to keep upgrading this page as I build deeper projects! 💻✨
+This is just day two of my journey, and I can't wait to keep upgrading this page as I build deeper projects! 💻✨
